@@ -80,7 +80,7 @@
 		FA6F255729A3D2B4007DC82D = {
 			isa = PBXGroup;
 			children = (
-				FA6F256229A3D2B4007DC82D /* PasswordSecond */,
+				FA6F256229A3D2B4007DC82D /* Password */,
 				FA3668A029AE7BDB00B51D97 /* PasswordSecondTests */,
 				FA6F256129A3D2B4007DC82D /* Products */,
 			);
@@ -95,7 +95,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FA6F256229A3D2B4007DC82D /* PasswordSecond */ = {
+		FA6F256229A3D2B4007DC82D /* Password */ = {
 			isa = PBXGroup;
 			children = (
 				FAA2A42129AD3CD4001C188A /* Utils */,
@@ -105,7 +105,7 @@
 				FA6F257729A3D37B007DC82D /* PasswordTextField.swift */,
 				FA6F257929A3D3A2007DC82D /* Files */,
 			);
-			path = PasswordSecond;
+			path = Password;
 			sourceTree = "<group>";
 		};
 		FA6F257929A3D3A2007DC82D /* Files */ = {
